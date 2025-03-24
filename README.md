@@ -1,2 +1,4 @@
 # Python Curso Em Video
-Dowload para Baixar Python : https://www.python.org/downloads/
+## Aplicativos Para Baixar
+Dowload para Baixar Python e O Idle : https://www.python.org/downloads/
+
