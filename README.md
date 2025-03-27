@@ -13,7 +13,7 @@ Dowload para Baixar o Pycharm : https://www.jetbrains.com/pycharm/download/?sect
 ### Oque fazer se Tiver duuvida em executar um arquivo:
 <table>
   <tr>
-    <td><img src="Captura de tela 2025-03-27 090435.png" width="150"></td>
+    <td><img src="Captura de tela 2025-03-27 090435.png" width="200"></td>
     <td>Seu texto aqui. Este texto ficará ao lado da imagem.</td>
   </tr>
 </table>
