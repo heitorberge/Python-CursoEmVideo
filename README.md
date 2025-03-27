@@ -10,11 +10,11 @@ Dowload para Baixar o Pycharm : https://www.jetbrains.com/pycharm/download/?sect
 - Clique em File.  
 - Clique em Open e Selecione o arquivo.
 - Depois clique em Run.
-### Oque fazer se Tiver duuvida em executar um arquivo:
+### Oque fazer se Tiver duvida em executar um arquivo no Pycharm:
 <table>
   <tr>
-    <td><img src="Captura de tela 2025-03-27 090435.png" width="200"></td>
-    <td>Seu texto aqui. Este texto ficará ao lado da imagem.</td>
+    <td><img src="Captura de tela 2025-03-27 090435.png" width="250"></td>
+    <td>1: Aperte o arquivo que deseja executar com o Botão Direito. <br/> 2: Aperte em RUN e seja Feliz!😁</td>
   </tr>
 </table>
 
