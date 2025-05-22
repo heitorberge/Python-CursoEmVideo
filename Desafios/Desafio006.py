@@ -1,0 +1,5 @@
+n = input('Digite algo: ')
+nt = type(n)
+print(nt)
+print(n.isupper())
+print(n.isalpha())
