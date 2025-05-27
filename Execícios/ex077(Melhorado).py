@@ -5,3 +5,4 @@ for palavra in palavras:
     for letra in palavra:
         if letra.lower() in 'aáàãâeéèêiíìîoõóòôuúùû':
             print(letra, end=' ')
+    print(';')
