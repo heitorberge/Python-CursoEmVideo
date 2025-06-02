@@ -1,7 +1,0 @@
-numero = int(input("Digite um número inteiro: "))
-numero_str = str(numero)
-numero_str = numero_str.zfill(4)
-print(f"Unidade: {numero_str[3]}")
-print(f"Dezena: {numero_str[2]}")
-print(f"Centena: {numero_str[1]}")
-print(f"Milhar: {numero_str[0]}")
