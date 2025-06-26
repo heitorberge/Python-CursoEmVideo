@@ -1,0 +1,3 @@
+José;35
+Heitor;10
+Nina;3
